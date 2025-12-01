@@ -35,3 +35,6 @@ J'ai implémenté un système de génération automatique de documentation OpenA
 - Il suffit d'ajouter des annotations aux nouvelles méthodes de contrôleurs
 - Interface Scalar moderne et interactive pour tester l'API
 - Génération à la volée, pas de cache ou de fichiers statiques
+
+### 01.12.2025 (Lundi)
+Aujourdhui jai changer l'architecture du projet pour utiliser le template que j'ai créer personnellement car c'est plus facile pour moi, puis jai commencer a travailler sur le frontend en installant react javascript avec react bits j'ai eu quelque soucis alors la source est pas super belle mais je repasserais pas dessus plus tard si jai le temps la ça marche alors on touche pas.

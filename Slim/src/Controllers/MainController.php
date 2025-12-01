@@ -18,5 +18,14 @@ class MainController
         $resp->getBody()->write("Sybau API");
         return $resp;
     }
+
+    function login(Request $req, Response $resp, array $args): Response
+    {
+        $requestBody = $req->getParsedBody();
+        $username = $requestBody['username'] ?? '';
+        $password = $requestBody['password'] ?? '';
+        $resp->getBody()->write("Sybau API");
+        return $resp;
+    }
     
 }
