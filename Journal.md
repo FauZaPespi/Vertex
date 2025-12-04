@@ -38,3 +38,6 @@ J'ai implémenté un système de génération automatique de documentation OpenA
 
 ### 01.12.2025 (Lundi)
 Aujourdhui jai changer l'architecture du projet pour utiliser le template que j'ai créer personnellement car c'est plus facile pour moi, puis jai commencer a travailler sur le frontend en installant react javascript avec react bits j'ai eu quelque soucis alors la source est pas super belle mais je repasserais pas dessus plus tard si jai le temps la ça marche alors on touche pas.
+
+### 04.12.2025 (Jeudi)
+Finalement l'ui react je ne l'aime pas et l'architecture du projet react est bizarre, j'hesite de plus en plus a faire le frontend avec slim finalement, je me garde ce choix pour plus tard pour le moment l'api est le plus important
